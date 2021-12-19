@@ -1,0 +1,16 @@
+{
+	"name": "Spirit Wood",
+	"description": "Barks of tree containing a small bit of the world's spirit.",
+	"image": "---FILL IN later",
+    "item_id": 0,
+	"properties": {
+		"materials_property": {
+			"saleValue": 0,
+            "minimumRequirement": 1
+		},
+        "equipment_property": {
+            "saleValue": 0,
+            "equipment_stats": [0,0,0,0,0,0,0,0,0,0,0]
+        }
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "Spirit Grass",
+	"description": "A few leaves of grass that contain a small bit of the world's residual spirit.",
+	"image": "---FILL IN later",
+    "item_id": 0,
+	"properties": {
+		"materials_property": {
+			"saleValue": 0,
+            "minimumRequirement": 1
+		},
+        "equipment_property": {
+            "saleValue": 0,
+            "equipment_stats": [0,0,0,0,0,0,0,0,0,0,0]
+        }
+	}
+}
