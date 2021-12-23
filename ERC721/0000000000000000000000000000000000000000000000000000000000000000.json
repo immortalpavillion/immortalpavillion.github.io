@@ -1,0 +1,19 @@
+{
+    "name":"abc1",
+    "description":"abc",
+    "external_link": "https://something.com",
+    "properties": [
+        {
+            "property1": "propertyName",
+            "value": 1
+        },
+        {
+            "property2": "propertyName",
+            "value": 1
+        },
+        {
+            "property3": "propertyName",
+            "value": 1
+        }
+    ]
+}
